@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861200983376",
+    "project_id": "fitness-12caf",
+    "storage_bucket": "fitness-12caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861200983376:android:a561a55131d89188da7855",
+        "android_client_info": {
+          "package_name": "com.techos.burntofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861200983376-qjmokdp06f61b995u7r2irridnehtosa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy0jD7wjydxVo9XZKRoVE_lRRfC4CfFqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861200983376-qjmokdp06f61b995u7r2irridnehtosa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
